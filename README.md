@@ -15,7 +15,7 @@
 > 如果服务器启用了安全组，请先关闭安全组，或者在脚本安装完成后，手动放行对应的服务端口，否则可能导致无法正常连接。
 
 ```bash
-bash <(curl -Lso- https://raw.githubusercontent.com/GeorgianaBlake/hysteria2/refs/heads/main/install.sh)
+bash <(curl -Lso- https://raw.githubusercontent.com/GeorgianaBlake/Hysteria2/refs/heads/main/install.sh)
 ```
 
 ## 注意事项
