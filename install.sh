@@ -389,6 +389,7 @@ hr() { printf '%*s\n' 40 '' | tr ' ' '='; }
 draw_header() {
   hr
   echo -e " Hysteria2 一键管理"
+  echo -e " https://github.com/GeorgianaBlake/Hysteria2"
   echo -e " 当前脚本版本: ${Magenta}${SHELL_VERSION}${Font}"
   echo -e " 安装状态：$(status_text)"
   hr
